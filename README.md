@@ -1,0 +1,2 @@
+# AyudantiaC
+Algorithms in C
